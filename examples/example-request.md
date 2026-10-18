@@ -7,4 +7,6 @@ Use my existing signed-in VideoExpress account and create a new project. I autho
 
 Do not purchase upgrades, add providers, publish publicly, or delete existing saved assets.
 
+---
+
 Adapt this request before submitting it. Authorization and account/plan statements must reflect your actual intent and access. To use your own reference photo, attach an image you are authorized to use and replace the character-generation request accordingly.
