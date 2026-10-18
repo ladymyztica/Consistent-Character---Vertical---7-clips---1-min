@@ -1,4 +1,4 @@
-# Workflow for Unlimited Long - Consistant Character - Video(s) • Vertical - 7 clips - 1 min
+# Workflow for Unlimited Long - Consistant Character - Video(s) • Vertical - 7 scenes of 8 sec - 1 min
 
 A browser-based production workflow for a consistent talking character: generate or attach a reference photo, create expressive scenes with Lipsync HD speech, assemble and trim matching audio/video layers, save the project, and export and download an MP4.
 
